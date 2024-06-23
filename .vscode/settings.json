@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.php": "php",
+        "webserver.h": "c",
+        "http.h": "c"
+    }
+}
